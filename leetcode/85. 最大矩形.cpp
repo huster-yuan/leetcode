@@ -19,6 +19,7 @@ int maximalRectangle(vector<vector<char>>& matrix) {
 		for (int j = 0; j < n; j++) {
 			if (matrix[i][j] == '0') mat[i][j] = 0;
 			else mat[i][j] += mat[i][j - 1];
+			int a = 0;
 		}
 	}
 
