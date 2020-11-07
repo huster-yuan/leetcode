@@ -49,5 +49,5 @@ void main5() {
 	cout << longestPalindrome(s);
 
 
-	int a; cin >> a;
+	cin.get();
 }

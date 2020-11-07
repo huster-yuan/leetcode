@@ -34,5 +34,5 @@ void main3() {
 	cout << lengthOfLongestSubstring(s);
 
 
-	int a; cin >> a;
+	cin.get();
 }

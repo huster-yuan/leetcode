@@ -13,6 +13,9 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="新知识">
+      <UniqueIdentifier>{e173e3f3-8501-4546-a8c5-8e3a7e7ed595}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="biaozhun.h">
@@ -42,6 +45,45 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="8. 字符串转换整数 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lambda_test.cpp">
+      <Filter>新知识</Filter>
+    </ClCompile>
+    <ClCompile Include="模板.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="9回文数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="10正则表达式匹配.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="53.最大子序和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="62.不同路径.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="63.不同路径2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="64.最小路径和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="84. 柱状图中最大的矩形.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="85. 最大矩形.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="13. 罗马数字转整数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="12. 整数转罗马数字.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

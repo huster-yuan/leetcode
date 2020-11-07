@@ -2,6 +2,9 @@
 using namespace std;
 
 int main() {
-	main5();
+	main_lambda();
+
+	
+	cin.get();
 	return 0;
 }

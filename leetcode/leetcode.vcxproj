@@ -118,14 +118,27 @@
     <ClInclude Include="biaozhun.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="10正则表达式匹配.cpp" />
+    <ClCompile Include="12. 整数转罗马数字.cpp" />
+    <ClCompile Include="13. 罗马数字转整数.cpp" />
     <ClCompile Include="1两数之和.cpp" />
     <ClCompile Include="2两数相加.cpp" />
     <ClCompile Include="3无重复字符的最长子串.cpp" />
     <ClCompile Include="4寻找两个正序数组的中位数.cpp" />
+    <ClCompile Include="53.最大子序和.cpp" />
     <ClCompile Include="5最长回文子串.cpp" />
+    <ClCompile Include="62.不同路径.cpp" />
+    <ClCompile Include="63.不同路径2.cpp" />
+    <ClCompile Include="64.最小路径和.cpp" />
     <ClCompile Include="6Z 字形变换.cpp" />
     <ClCompile Include="7整数反转.cpp" />
+    <ClCompile Include="8. 字符串转换整数 .cpp" />
+    <ClCompile Include="84. 柱状图中最大的矩形.cpp" />
+    <ClCompile Include="85. 最大矩形.cpp" />
+    <ClCompile Include="9回文数.cpp" />
+    <ClCompile Include="lambda_test.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="模板.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

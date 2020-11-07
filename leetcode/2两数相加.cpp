@@ -46,5 +46,5 @@ ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
 void main2() {
 
 
-	int a; cin >> a;
+	cin.get();
 }

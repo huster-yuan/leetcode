@@ -2,6 +2,9 @@
 #include<vector>
 #include<string>
 #include<algorithm>
+#include<cmath>
+#include<stack>
+void main_lambda();
 void main1();
 void main2();
 void main3();
@@ -21,3 +24,6 @@ void main15();
 void main16();
 void main17();
 void main18();
+void main53();
+void main84();
+void main_lambda();

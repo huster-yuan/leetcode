@@ -30,5 +30,5 @@ string convert(string s, int numRows) {
 }
 void main6() {
 
-	int a; cin >> a;
+	cin.get();
 }
